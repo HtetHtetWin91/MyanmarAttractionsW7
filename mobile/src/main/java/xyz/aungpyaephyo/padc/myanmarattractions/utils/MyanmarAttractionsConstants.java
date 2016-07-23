@@ -33,4 +33,6 @@ public class MyanmarAttractionsConstants {
     public static final String EMAIL_PATTERN = "^[\\w\\.-]+@([\\w\\-]+\\.)+[A-Z]{2,4}$";
 
     public static final String ENCRYPT_MD5 = "MD5";
+    public static final int ATTRACTION_LIST_LOADER_LISTVIEW = 3 ;
+    public static final int ATTRACTION_LIST_LOADER_GRIDVIEW = 4 ;
 }
